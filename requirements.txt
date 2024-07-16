@@ -1,0 +1,14 @@
+Flask
+Flask-PyMongo
+Flask-Bcrypt
+Flask-Login
+Flask-Dance
+Flask-Mail
+Flask-JWT-Extended
+Flask-HTTPAuth
+python-dotenv
+pymongo
+opencv-python
+mediapipe
+pandas
+numpy
